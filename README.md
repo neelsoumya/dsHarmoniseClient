@@ -18,3 +18,8 @@ There are 3 files:
 * `data_gen.R` which uses DataSHIELD functions to regenerate a local simulation of the remote data
 * `dslite_harm.R` the beginnings of how to write harmonisation code against the simulated data held in DSLite. This should be easy-ish because you can see the data, although you are constrained to DataSHIELD commands. The idea is then that you run your DataSHIELD harmonisation commands against the real data to generated your harmonised data. 
 * `dsbase_harm.R` outline of code to do harmonization in dsBaseClient and dsBase
+
+
+## Contact
+
+* Soumya Banerjee and Tom Bishop
