@@ -6,9 +6,23 @@ This is a package to perform harmonization of data in DataSHIELD. It assumes you
 
 ## Prerequisite
 
-Follow the installation instructions on https://github.com/bonorico/gcipdr
+* Follow the installation instructions on https://github.com/bonorico/gcipdr
 
 On the system, you need dsBaseClient, DSI, DSOpal, DSLite, dsBase installed. It assumes you are using this DataSHIELD VM: https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/1658093595/RStudio+Server+based+Development+VM
+
+
+* Install R Studio and the development environment as described below:
+
+    * https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/12943461/Getting+started
+
+
+* Install the virtual machines as described below:
+
+    * https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/931069953/Installation+Training+Hub-+DataSHIELD+v6
+
+    * https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/1657634881/Testing+100+VM
+
+    * https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/1657634898/Tutorial+6.1.0+100+VM
 
 ## Structure
 
