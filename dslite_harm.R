@@ -15,3 +15,6 @@ data <- getDSLiteData(connections, "D")
 
 # TODO: use ds.upload
 #   https://github.com/lifecycle-project/ds-upload/blob/master/R/upload.R
+
+# TODO: use datashield.login to upload this table
+#   https://github.com/datashield/opal/blob/master/R/datashield.login.r
