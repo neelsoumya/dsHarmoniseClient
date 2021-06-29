@@ -18,3 +18,5 @@ data <- getDSLiteData(connections, "D")
 
 # TODO: use datashield.login to upload this table
 #   https://github.com/datashield/opal/blob/master/R/datashield.login.r
+#   or dsloginbuilder
+#   https://github.com/datashield/DSI/blob/master/R/DSLoginBuilder.R
