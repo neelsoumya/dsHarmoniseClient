@@ -12,3 +12,6 @@ connections <- datashield.login(logins=logindata, assign = TRUE)
 data <- getDSLiteData(connections, "D")
 
 # TODO: use ds.upload for IPD and use use plain dsBaseClient for harminization
+
+# TODO: use ds.upload
+#   https://github.com/lifecycle-project/ds-upload/blob/master/R/upload.R
